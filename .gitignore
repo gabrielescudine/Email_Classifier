@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+pip-wheel-metadata/
+share/python-wheels/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Data files
+data/X.csv
+data/Y.csv
+data/synthetic_data.csv
+data/*.json
+data/*.xlsx
+data/*.parquet
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+
+# Environment variable files
+.env
+*.env
+
+# Notebook outputs
+*.nbconvert.ipynb
+
+# JupyterLab workspace
+.lab/
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
